@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main(int argc, const char *argv[])
-{
+int main(int argc, const char *argv[]) 
+{									
 	puts("Vamos");
-	return 0;
+	return -1;
+	
 }
