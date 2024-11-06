@@ -26,6 +26,7 @@ int main(int argc, const char *argv[])
 	printf("°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°VV°\n");
 	*/
 
+	
 	int UserValue = 0;
 
 	do {
@@ -39,6 +40,6 @@ int main(int argc, const char *argv[])
 	if (UserValue %5 == 0){
 		printf("%d est multiple de 5 (x%d)\n", UserValue, UserValue / 5);
 	}
-
+	
 	return 0;
 }
