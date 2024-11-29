@@ -14,4 +14,13 @@
     ],
     "terminal.integrated.shellIntegration.enabled": false,
     "terminal.integrated.shellIntegration.decorationsEnabled": true,
+    "files.associations": {
+        "math.h": "c",
+        "libc-header-start.h": "c",
+        "types.h": "c",
+        "flt-eval-method.h": "c",
+        "fp-logb.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    },
 }
